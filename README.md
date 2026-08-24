@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="" target="_blank">soumyajit.tech</a>
+  <a href="https://portfolio-chi-three-ojtxrqzkc1.vercel.app/" target="_blank">Le Duc Anh Tuan</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
@@ -9,7 +9,7 @@
 
 ## Built With
 
-My personal portfolio <a href="" target="_blank">Le Duc Anh Tuan</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-chi-three-ojtxrqzkc1.vercel.app/" target="_blank">Le Duc Anh Tuan</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 ## Getting Started
 
