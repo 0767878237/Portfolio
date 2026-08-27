@@ -27,6 +27,16 @@ function Projects() {
             />
           </Col>
 
+              <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={projectImage("ebooking.png")}
+              isBlog={false}
+              title="Ebooking"
+              description="A full-stack web application featuring secure RESTful APIs, responsive UI, payment sandbox integration, and containerized deployment. Built with Spring Boot, React, TypeScript, and PostgreSQL"
+              ghLink="https://github.com/0767878237/Ebooking"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={projectImage("chatbot.png")}
